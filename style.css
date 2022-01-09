@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a2d9ff;
+}
+
+.jumbotron h1 {
+  /* font-family: "Times New Roman", Times, serif; */
+  font-weight: 400;
+  padding-top: 2rem;
+}
+
+#projects {
+  background-color: #a2d9ff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  padding-bottom: 6rem;
+}
